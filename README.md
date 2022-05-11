@@ -7,7 +7,7 @@ I am a FullStack Web Developer and Security engineer. I am passionate about tech
 
 ## ⚡ Tech Stack
 
-Here are a few things I've picked up along my learning journey.
+Here are a few things I've learned along my learning journey.
 
 
   ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
