@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3px">Hi Dev's i am Wilsntn 👨‍💻
 
-I am a FullStack Web Developer and Security engineer. I am passionate about technologies, hacking and love to learn new things.
+I am a FullStack Web Developer and Network Administrator. I am passionate about technologies, hacking and love to learn new things.
 
 ### 👨‍💻Have a look at my pt_BR  [website](https://portfolio.wsecurity.tech/).
 
