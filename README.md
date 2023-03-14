@@ -4,6 +4,8 @@ I am a FullStack Web Developer and Network Administrator. I am passionate about 
 
 ### 👨‍💻Have a look at my pt_BR  [website](https://wilsantana.dev/).
 
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wilsntn&show_icons=true&theme=dark&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wilsntn&show_icons=true&theme=default&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## ⚡ Tech Stack
 
