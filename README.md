@@ -2,9 +2,6 @@
 
 I am a FullCycle Web Developer. I am passionate about technologies, hacking and love to learn new things.
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wilsntn&show_icons=true&theme=dark&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wilsntn&show_icons=true&theme=default&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 ## ⚡ Tech Stack
 
 Here are a few things I've learned along my learning journey.
