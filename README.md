@@ -1,5 +1,3 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  Hey
-
 I am a FullCycle Web Developer. I am passionate about technologies, hacking and love to learn new things.
 
 ## ⚡ Tech Stack
